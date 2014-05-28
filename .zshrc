@@ -66,7 +66,6 @@ alias ls='ls -G -F'
 export PATH=$HOME/bin:$PATH
 export PATH=/usr/local/bin:$PATH
 
-export RBENV_ROOT=/usr/local/var/rbenv
 if which rbenv > /dev/null; then eval "$(rbenv init - zsh)"; fi
 
 export PYENV_ROOT=$HOME/.pyenv
