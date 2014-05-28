@@ -18,6 +18,8 @@ install redis
 install ruby-build
 install the_silver_searcher
 install tig
+install zsh
+install zsh-completions
 
 cask install google-chrome
 cask install vagrant
