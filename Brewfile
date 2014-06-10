@@ -21,6 +21,5 @@ install tig
 install zsh
 install zsh-completions
 
-cask install google-chrome
 cask install vagrant
 cask install virtualbox
