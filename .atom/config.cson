@@ -1,0 +1,20 @@
+'editor':
+  'fontSize': 12
+'core':
+  'ignoredNames': [
+    '*.pyc'
+  ]
+  'themes': [
+    'atom-dark-ui'
+    'solarized-light-syntax'
+  ]
+'exception-reporting':
+  'userId': '5ca651a7-3321-55e3-6020-1867c7255e3a'
+'release-notes':
+  'viewedVersion': '0.84.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': 'd435f2d1dc136e23956435523392d760e9f5152d'
+'whitespace':
+  'ignoreWhitespaceOnlyLines': true
