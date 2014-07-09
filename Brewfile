@@ -1,5 +1,7 @@
-tap phinze/homebrew-cask
+update
+upgrade
 
+tap phinze/homebrew-cask
 
 install brew-cask
 install chisel
@@ -21,5 +23,10 @@ install tig
 install zsh
 install zsh-completions
 
+cask install boot2docker
+cask install iexplorer
 cask install vagrant
 cask install virtualbox
+
+cleanup
+
