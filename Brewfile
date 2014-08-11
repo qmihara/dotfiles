@@ -4,6 +4,7 @@ tap phinze/homebrew-cask
 install brew-cask
 install chisel
 install git-flow
+install heroku-toolbelt
 install hub
 install jq
 install memcached
