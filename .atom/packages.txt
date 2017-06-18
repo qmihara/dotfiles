@@ -1,0 +1,4 @@
+file-icons@2.1.7
+pretty-json@1.6.3
+script@3.15.0
+

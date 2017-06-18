@@ -73,3 +73,8 @@ if [ -d "${PYENV_ROOT}" ]; then
     export PATH=${PYENV_ROOT}/shims:$PATH
     eval "$(pyenv init -)"
 fi
+
+# added by travis gem
+[ -f /Users/qmihara/.travis/travis.sh ] && source /Users/qmihara/.travis/travis.sh
+
+if which swiftenv > /dev/null; then eval "$(swiftenv init -)"; fi
