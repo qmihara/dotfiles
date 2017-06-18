@@ -1,7 +1,6 @@
 # dotfiles
 
     $ git clone git@github.com:qmihara/dotfiles.git ~/.dotfiles
-    $ ln -sfv ~/.dotfiles/Brewfile ~/Brewfile
     $ ln -sfv ~/.dotfiles/.zshrc ~/.zshrc
     $ ln -sfv ~/.dotfiles/.atom ~/.atom
 
