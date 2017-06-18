@@ -10,13 +10,14 @@
     $ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
     $ brew doctor
 
-## もろもろインストール
-
-    $ cd ~/
-    $ brew bundle
-
 ## shell
 
     $ sudo vi /etc/shells
     $ chsh -s /usr/local/bin/zsh
     Password for xxxx:
+
+## atom
+
+    $ cd .atom
+    $ make install_packages
+
